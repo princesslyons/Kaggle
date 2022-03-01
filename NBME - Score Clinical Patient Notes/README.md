@@ -9,7 +9,8 @@
   - Problem Statement
     - Learning and assessing the skill of writing patient notes requires feedback from other doctors, a time-intensive process that could be improved with the addition of machine learning.
     - Having physicians score patient note exams requires significant time, along with human and financial resources.
-  - Goal
+  - **Goal**
+    - The goal of this competition is to develop an automated way of identifying the relevant features within each patient note, with a special focus on the patient history portions of the notes where the information from the interview with the standardized patient is documented.
     - Making the approach more transparent, interpretable, and easing the development and administration of such assessments.
   - NLP Challenges
     - For example, the feature "loss of interest in activities" can be expressed as "no longer plays tennis."  
