@@ -16,7 +16,7 @@
   - Features
     - Rubrics that outlined each case's important concepts
     - More such features found in patient notes -> higher the score
-    - Real-world issue: scor   
+    - Real-world issue: scoring patient note exams requires significant time, along with human and financial resources.   
   - Task
     - Identify specific clinical concepts in patient notes
     - Map clinical concepts from rubric (features) to varying ways students express them
@@ -28,5 +28,5 @@
   - Feature: A clinically relevant concept. A rubric describes the key concepts relevant to each case.
   - See (nbme-score-clinical-patient-notes/README.md)(nbme-score-clinical-patient-notes/README.md) for more details
 
-## [Additional Resources]
+## Additional Resources
   - Article: [Lessons learned building natural language processing systems in health care](https://www.oreilly.com/content/lessons-learned-building-natural-language-processing-systems-in-health-care/)
