@@ -1,4 +1,7 @@
-# [NBME - Score Clinical Patient Notes Data](https://www.kaggle.com/c/nbme-score-clinical-
+# [NBME - Score Clinical Patient Notes Data](https://www.kaggle.com/c/nbme-score-clinical-patient-notes/data)
+The text data presented here is from the USMLE® Step 2 Clinical Skills examination, a medical licensure exam. This exam measures a trainee's ability to recognize pertinent clinical facts during encounters with standardized patients.
+
+During this exam, each test taker sees a Standardized Patient, a person trained to portray a clinical case. After interacting with the patient, the test taker documents the relevant facts of the encounter in a patient note. Each patient note is scored by a trained physician who looks for the presence of certain key concepts or features relevant to the case as described in a rubric. The goal of this competition is to develop an automated way of identifying the relevant features within each patient note, with a special focus on the patient history portions of the notes where the information from the interview with the standardized patient is documented.
 
 ### Important Terms
   - **Clinical Case:** The scenario (e.g., symptoms, complaints, concerns) the Standardized Patient presents to the test taker (medical student, resident or physician). Ten clinical cases are represented in this dataset.
