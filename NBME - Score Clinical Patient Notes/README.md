@@ -27,7 +27,7 @@
   - Clinical Case: The scenario (e.g., symptoms, complaints, concerns) the Standardized Patient presents to the test taker (medical student, resident or physician). Ten clinical cases are represented in this dataset.
   - Patient Note: Text detailing important information related by the patient during the encounter (physical exam and interview).
   - Feature: A clinically relevant concept. A rubric describes the key concepts relevant to each case.
-  - See (nbme-score-clinical-patient-notes/README.md)(nbme-score-clinical-patient-notes/README.md) for more details
+  - See [nbme-score-clinical-patient-notes/README.md](nbme-score-clinical-patient-notes/README.md) for more details
 
 ## Additional Resources
   - Article: [Lessons learned building natural language processing systems in health care](https://www.oreilly.com/content/lessons-learned-building-natural-language-processing-systems-in-health-care/)
